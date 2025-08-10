@@ -35,7 +35,7 @@
     "@cubejs-backend/jdbc-driver": "^0.31.33",
     "@cubejs-backend/schema-compiler": "^0.31.36",
     "@cubejs-backend/shared": "^0.31.33",
-    "inquirer": "^8.0.0",
+    "inquirer": "^8.2.7",
     "node-fetch": "^2.6.1",
     "ramda": "^0.27.2",
     "source-map-support": "^0.5.19",
