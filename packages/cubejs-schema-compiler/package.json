@@ -49,7 +49,7 @@
     "cron-parser": "^3.5.0",
     "humps": "^2.0.1",
     "inflection": "^1.12.0",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.1.1",
     "lru-cache": "^5.1.1",
     "moment-range": "^4.0.1",
     "moment-timezone": "^0.5.33",
