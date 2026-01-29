@@ -39,7 +39,7 @@
   },
   "dependencies": {
     "@cubejs-backend/cubesql": "^0.31.35",
-    "@mapbox/node-pre-gyp": "^1"
+    "@mapbox/node-pre-gyp": "^2.0.0"
   },
   "binary": {
     "module_name": "index",
